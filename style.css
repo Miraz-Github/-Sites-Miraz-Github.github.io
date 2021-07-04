@@ -1,6 +1,6 @@
 body{
 	font-family: Uni-sans, Arial, sans-serif;
-	background-image: url(DPL.jpg);
+	background-image: url(DLP.jpg);
 	background-size: cover;
 }
 a {
@@ -74,7 +74,6 @@ input[type=submit]{
 	height: 44px;
 }
 .selected{
-	font-weight: bold;
 	font-weight: bold;
 }
 #ForgetPassword ul {
