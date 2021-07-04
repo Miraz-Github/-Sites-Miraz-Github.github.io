@@ -1,0 +1,83 @@
+body{
+	font-family: Uni-sans, Arial, sans-serif;
+	background-image: url(https://i.redd.it/x4esim9lgly41.png);
+	background-size: cover;
+}
+a {
+	text-decoration: none;
+	color: #6f85d2;
+}
+b {
+	color: #6f85d2;
+	letter-spacing: 1px;
+}
+#container{
+	border-radius: 10px;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
+	box-sizing: border-box;
+	background-color: #36393f;
+	padding: 40px;
+	transform: translate(-50%,-50%);
+	position: absolute;
+	top: 49.5%;
+	left: 50%;
+	width: 476px;
+	height: 425PX;
+}
+#Welcomebackbox{
+	text-align: center;
+}
+#Welcomeback{
+	color: #ebedf2;
+}
+#123456{
+	color: #6d7178;
+}
+#Email{
+	font-weight: bold;
+	text-align: left;
+	color: White;
+	padding: 5px;
+}
+#Password{
+	font-weight: bold;
+	padding: 5px 5px 10px 5px;
+	text-align: left;
+	color: White;
+	
+}
+.box .input-box input{
+	font-weight: bold;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #6f85d2;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+	padding: 20px;
+	background-color: #303339;
+	width: 100%;
+	height: 40px;
+	font-size: 28px;
+	padding: 2px 2px;
+}
+input[type=submit]{
+	border-style: none;
+	color: white;
+	box-shadow: 0 5px 8px rgba(0, 0, 0, 0.5);
+	text-align: center;
+	box-align: center;
+	font-family: Uni-sans, Arial, sans-serif, sans;
+	border-radius: 5px;
+	padding: 2px;
+	background-color: #7289da;
+	width: 398px;
+	height: 44px;
+}
+.selected{
+	font-weight: bold;
+}
+#ForgetPassword ul {
+	padding: 2px;
+	list-style-type: none;
+	padding: 0px;
+}
