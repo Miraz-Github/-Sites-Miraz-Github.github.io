@@ -75,6 +75,7 @@ input[type=submit]{
 }
 .selected{
 	font-weight: bold;
+	font-weight: bold;
 }
 #ForgetPassword ul {
 	padding: 2px;
